@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "9.0.1"
     },
-    "CreationDate": "2025-05-07T10:28:51-04:00"
+    "CreationDate": "2026-01-25T20:54:51-05:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "BREAD_Slice",
-      "GUID": "42524541-445f-4536-9c69-63655f636f6e",
+      "GUID": "42524541-445f-4536-9c69-63652e6b6963",
       "Revision": "rev?"
     },
     "Size": {
