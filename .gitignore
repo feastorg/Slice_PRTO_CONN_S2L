@@ -5,6 +5,7 @@
 *.sch-bak
 *~
 *-backups
+*-bak
 
 # Ignore KiCad autosave files
 *.tmp
