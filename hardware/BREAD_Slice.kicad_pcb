@@ -11893,8 +11893,8 @@
 			)
 		)
 	)
-	(gr_text "BREAD Slice\nTemplate:\n-> Conn\nSLC_PRTO\nR2 04-2025"
-		(at 128 103.5 270)
+	(gr_text "BREAD Slice\nPrototyping\nTerminal Connectors\nSLC_PRTO_CONN\nR1 11-2026"
+		(at 164 62 270)
 		(layer "F.SilkS")
 		(uuid "5abfd3cf-8b82-409d-b0dd-ab0b45a460bd")
 		(effects
